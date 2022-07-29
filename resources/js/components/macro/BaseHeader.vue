@@ -5,7 +5,9 @@
             <div class="col">
                 <h1>BoolBlog</h1>
             </div>
-            <div class="col"></div>
+            <div class="col">
+              <a href="/admin/home">Log in</a>
+            </div>
         </div>
     </div>
   </header>
